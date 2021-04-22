@@ -9,7 +9,7 @@ only interface allowing for the .g3db filename as input argument.
 
 <img src="figures/Screenshot_20210422-192719.PNG">
 
-Android ESA Sentinel 3D model page
+Android ESA Sentinel 3D model page: https://play.google.com/store/apps/details?id=esa.sentinel proprietary software, yet the apk archive can be uncompressed to extract individual files including the 3D models of the satellites used in this investigation.
 
 <img src="figures/model_assembled.png">
 
