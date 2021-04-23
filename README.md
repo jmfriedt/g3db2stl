@@ -27,6 +27,7 @@ string: translation
 array:  float3: -0.191849 -109.674469 -3.880795 
 ```
 These parameters are used to script FreeCAD when assembling parts.
+
 4. load each STL file in FreeCAD and apply transforms as Python scripts executed in the FreeCAD
 Python console, e.g.
 ```
