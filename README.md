@@ -48,7 +48,7 @@ Mesh.show(mesh1)
 
 <img src="figures/Screenshot_20210422-192719.PNG">
 
-Android ESA Sentinel 3D model page: https://play.google.com/store/apps/details?id=esa.sentinel proprietary software, yet the apk archive can be uncompressed to extract individual files including the 3D models of the satellites used in this investigation.
+Android ESA Sentinel 3D model page: https://play.google.com/store/apps/details?id=esa.sentinel proprietary software, yet the apk archive can be uncompressed to extract individual files including the 3D models of the satellites used in this investigation. Requesting information about the 3D embedded model leads to a response from solenix.ch which seems to be a Swiss (*non-EU*) private company to have been contracted by ESA (*European* Space Agency) to deploy their Android application. ESA will not release their 3D satellite model without NDA ... too bad.
 
 <img src="figures/model_assembled.png">
 
