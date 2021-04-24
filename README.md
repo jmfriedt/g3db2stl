@@ -47,9 +47,15 @@ mesh1.transform(mat1)
 Mesh.show(mesh1)
 ```
 
+See ``go_freecad.py`` for a sample script to be executed in the FreeCAD console. Make sure to
+analyze each .g3db file in a different sub-directory as shapes might have the same name and
+the resulting .stl files will be overwritten when a new shape is analyzed.
+
 <img src="figures/Screenshot_20210422-192719.PNG">
 
-Android ESA Sentinel 3D model page: https://play.google.com/store/apps/details?id=esa.sentinel proprietary software, yet the apk archive can be uncompressed to extract individual files including the 3D models of the satellites used in this investigation. Requesting information about the 3D embedded model leads to a response from solenix.ch which seems to be a Swiss (*non-EU*) private company to have been contracted by ESA (*European* Space Agency) to deploy their Android application. ESA will not release their 3D satellite model without NDA ... too bad.
+Android ESA Sentinel 3D model page: https://play.google.com/store/apps/details?id=esa.sentinel proprietary software, yet the apk archive can be uncompressed to extract individual files including the 3D models of the satellites used in this investigation. Requesting information about the 3D embedded model leads to a response from solenix.ch, the private company contracted by ESA (European Space 
+Agency) to deploy their Android application, leads to a negative answer as to the availability
+of the model in a printable format. ESA will not release their 3D satellite model without NDA ... too bad.
 
 <img src="figures/model_assembled.png">
 
