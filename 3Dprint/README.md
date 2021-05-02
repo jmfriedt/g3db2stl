@@ -5,3 +5,6 @@ sentinel1print1_panelx2.stl must be printed twice, with the attachement
 to the main body replaced from a fine piece to a cube more solid for
 gluing. Attributions of the various parts in the name is tentative and might
 be incorrect.
+
+<img src="result.jpg">
+"
