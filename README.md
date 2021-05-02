@@ -59,4 +59,5 @@ of the model in a printable format. ESA will not release their 3D satellite mode
 
 <img src="figures/model_assembled.png">
 
-Model extracted, assembled using FreeCAD, and ready for printing.
+Model extracted, assembled using FreeCAD, and ready for printing after splitting the various
+components as provided in <a href="3Dprint">this directory</a>.

@@ -7,4 +7,3 @@ gluing. Attributions of the various parts in the name is tentative and might
 be incorrect.
 
 <img src="result.jpg">
-"
