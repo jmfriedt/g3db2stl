@@ -1,4 +1,4 @@
-**Sentinel1 model ready for printing**
+**Sentinel1 model ready for 3D printing**
 
 STL files for printing the model. Make sure to move the SAR antenna
 from sentinel1print0_body.stl a few tenths of mm in the printing plate
